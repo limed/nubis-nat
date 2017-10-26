@@ -1,4 +1,4 @@
-$squid_exporter_version = '0.1'
+$squid_exporter_version = '0.2'
 $squid_exporter_url     = "https://github.com/boynux/squid-exporter/releases/download/v${squid_exporter_version}/squid-exporter"
 
 notice("Grabbing squid_exporter v${squid_exporter_version}")
